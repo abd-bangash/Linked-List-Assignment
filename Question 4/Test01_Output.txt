@@ -1,0 +1,14 @@
+List: [10]
+List: [10, 20]
+List: [10, 20, 30]
+10
+List: [10, 15, 20, 30]
+Cursor moved forward by 2 step(s).
+List: [10, 15, 20, 25, 30]
+20
+List: [5, 15, 20, 25, 30]
+20
+List: [5, 15, 20, 25]
+List: [5, 15, 20, 25, 30]
+Cursor moved backwards by 1 step(s).
+15
